@@ -1,0 +1,27 @@
+<infos>
+    <exercises id="1">
+        <subject>1.what is java?</subject>
+        <a>is a software</a>
+        <b>is a apk</b>
+        <c>is a game</c>
+        <d>is a phone</d>
+        <answer>3</answer>
+    </exercises>
+    <exercises id="2">
+        <subject>2.what is AndroidStudio?</subject>
+        <a>is a software</a>
+        <b>is a apk</b>
+        <c>is a game</c>
+        <d>is a phone</d>
+        <answer>4</answer>
+    </exercises>
+    <exercises id="3">
+        <subject>3.what is C++?</subject>
+        <a>is a software</a>
+        <b>is a apk</b>
+        <c>is a game</c>
+        <d>is a phone</d>
+        <answer>2</answer>
+    </exercises>
+
+</infos>
